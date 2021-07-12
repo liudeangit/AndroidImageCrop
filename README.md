@@ -1,4 +1,4 @@
-实现原理参考博客：http://blog.csdn.net/chunqiuwei/article/details/78858192
+实现原理参考博客：https://blog.csdn.net/weixin_43851064/article/details/118668562
 
 参考资料：https://github.com/edmodo/cropper
 使用方法：
